@@ -1,0 +1,427 @@
+[
+    {
+        "nome": "Leão",
+        "atributos": {
+            "forca": 7,
+            "velocidade": 6,
+            "inteligencia": 7
+        }
+    },
+    {
+        "nome": "Rinoceronte",
+        "atributos": {
+            "forca": 10,
+            "velocidade": 4,
+            "inteligencia": 6
+        }
+    },
+    {
+        "nome": "Guepardo",
+        "atributos": {
+            "forca": 5,
+            "velocidade": 10,
+            "inteligencia": 5
+        }
+    },
+    {
+        "nome": "Elefante",
+        "atributos": {
+            "forca": 9,
+            "velocidade": 3,
+            "inteligencia": 8
+        }
+    },
+    {
+        "nome": "Lobo",
+        "atributos": {
+            "forca": 6,
+            "velocidade": 7,
+            "inteligencia": 7
+        }
+    },
+    {
+        "nome": "Gorila",
+        "atributos": {
+            "forca": 8,
+            "velocidade": 5,
+            "inteligencia": 7
+        }
+    },
+    {
+        "nome": "Águia",
+        "atributos": {
+            "forca": 4,
+            "velocidade": 9,
+            "inteligencia": 7
+        }
+    },
+    {
+        "nome": "Tubarão",
+        "atributos": {
+            "forca": 8,
+            "velocidade": 6,
+            "inteligencia": 6
+        }
+    },
+    {
+        "nome": "Cobra",
+        "atributos": {
+            "forca": 5,
+            "velocidade": 8,
+            "inteligencia": 7
+        }
+    },
+    {
+        "nome": "Orca",
+        "atributos": {
+            "forca": 9,
+            "velocidade": 7,
+            "inteligencia": 6
+        }
+    },
+    {
+        "nome": "Tigre",
+        "atributos": {
+            "forca": 9,
+            "velocidade": 7,
+            "inteligencia": 6
+        }
+    },
+    {
+        "nome": "Pantera",
+        "atributos": {
+            "forca": 8,
+            "velocidade": 8,
+            "inteligencia": 7
+        }
+    },
+    {
+        "nome": "Crocodilo",
+        "atributos": {
+            "forca": 10,
+            "velocidade": 4,
+            "inteligencia": 5
+        }
+    },
+    {
+        "nome": "Hipopotamo",
+        "atributos": {
+            "forca": 9,
+            "velocidade": 3,
+            "inteligencia": 5
+        }
+    },
+    {
+        "nome": "Panda",
+        "atributos": {
+            "forca": 6,
+            "velocidade": 4,
+            "inteligencia": 8
+        }
+    },
+    {
+        "nome": "Búfalo",
+        "atributos": {
+            "forca": 8,
+            "velocidade": 5,
+            "inteligencia": 6
+        }
+    },
+    {
+        "nome": "Falcão",
+        "atributos": {
+            "forca": 4,
+            "velocidade": 9,
+            "inteligencia": 7
+        }
+    },
+    {
+        "nome": "Lince",
+        "atributos": {
+            "forca": 6,
+            "velocidade": 8,
+            "inteligencia": 6
+        }
+    },
+    {
+        "nome": "Girafa",
+        "atributos": {
+            "forca": 5,
+            "velocidade": 6,
+            "inteligencia": 6
+        }
+    },
+    {
+        "nome": "Zebra",
+        "atributos": {
+            "forca": 4,
+            "velocidade": 8,
+            "inteligencia": 5
+        }
+    },
+    {
+        "nome": "Antílope",
+        "atributos": {
+            "forca": 6,
+            "velocidade": 9,
+            "inteligencia": 5
+        }
+    },
+    {
+        "nome": "Canguru",
+        "atributos": {
+            "forca": 5,
+            "velocidade": 7,
+            "inteligencia": 6
+        }
+    },
+    {
+        "nome": "Jacaré",
+        "atributos": {
+            "forca": 8,
+            "velocidade": 4,
+            "inteligencia": 5
+        }
+    },
+    {
+        "nome": "Chita",
+        "atributos": {
+            "forca": 7,
+            "velocidade": 10,
+            "inteligencia": 6
+        }
+    },
+    {
+        "nome": "Baleia",
+        "atributos": {
+            "forca": 9,
+            "velocidade": 4,
+            "inteligencia": 7
+        }
+    },
+    {
+        "nome": "Águia real",
+        "atributos": {
+            "forca": 5,
+            "velocidade": 10,
+            "inteligencia": 8
+        }
+    },
+    {
+        "nome": "Puma",
+        "atributos": {
+            "forca": 8,
+            "velocidade": 7,
+            "inteligencia": 7
+        }
+    },
+    {
+        "nome": "Leopardo",
+        "atributos": {
+            "forca": 7,
+            "velocidade": 9,
+            "inteligencia": 6
+        }
+    },
+    {
+        "nome": "Bisonte",
+        "atributos": {
+            "forca": 9,
+            "velocidade": 4,
+            "inteligencia": 5
+        }
+    },
+    {
+        "nome": "Cervo",
+        "atributos": {
+            "forca": 5,
+            "velocidade": 8,
+            "inteligencia": 6
+        }
+    },
+    {
+        "nome": "Búfalo",
+        "atributos": {
+            "forca": 8,
+            "velocidade": 5,
+            "inteligencia": 6
+        }
+    },
+    {
+        "nome": "Morcego",
+        "atributos": {
+            "forca": 3,
+            "velocidade": 7,
+            "inteligencia": 6
+        }
+    },
+    {
+        "nome": "Pinguim",
+        "atributos": {
+            "forca": 4,
+            "velocidade": 5,
+            "inteligencia": 6
+        }
+    },
+    {
+        "nome": "Galo",
+        "atributos": {
+            "forca": 3,
+            "velocidade": 6,
+            "inteligencia": 4
+        }
+    },
+    {
+        "nome": "Galo-de-campina",
+        "atributos": {
+            "forca": 4,
+            "velocidade": 6,
+            "inteligencia": 5
+        }
+    },
+    {
+        "nome": "Camelo",
+        "atributos": {
+            "forca": 7,
+            "velocidade": 4,
+            "inteligencia": 6
+        }
+    },
+    {
+        "nome": "Aranha",
+        "atributos": {
+            "forca": 2,
+            "velocidade": 5,
+            "inteligencia": 6
+        }
+    },
+    {
+        "nome": "Mantis religiosa",
+        "atributos": {
+            "forca": 2,
+            "velocidade": 6,
+            "inteligencia": 5
+        }
+    },
+    {
+        "nome": "Caranguejo",
+        "atributos": {
+            "forca": 4,
+            "velocidade": 3,
+            "inteligencia": 5
+        }
+    },
+    {
+        "nome": "Cavalo-marinho",
+        "atributos": {
+            "forca": 1,
+            "velocidade": 4,
+            "inteligencia": 4
+        }
+    },
+    {
+        "nome": "Cacatua",
+        "atributos": {
+            "forca": 3,
+            "velocidade": 6,
+            "inteligencia": 7
+        }
+    },
+    {
+        "nome": "Mico",
+        "atributos": {
+            "forca": 4,
+            "velocidade": 5,
+            "inteligencia": 8
+        }
+    },
+    {
+        "nome": "Robalo",
+        "atributos": {
+            "forca": 6,
+            "velocidade": 7,
+            "inteligencia": 5
+        }
+    },
+    {
+        "nome": "Salmão",
+        "atributos": {
+            "forca": 3,
+            "velocidade": 6,
+            "inteligencia": 5
+        }
+    },
+    {
+        "nome": "Marreco",
+        "atributos": {
+            "forca": 2,
+            "velocidade": 6,
+            "inteligencia": 4
+        }
+    },
+    {
+        "nome": "Galo",
+        "atributos": {
+            "forca": 3,
+            "velocidade": 6,
+            "inteligencia": 4
+        }
+    },
+    {
+        "nome": "Papagaio",
+        "atributos": {
+            "forca": 3,
+            "velocidade": 5,
+            "inteligencia": 8
+        }
+    },
+    {
+        "nome": "Gato",
+        "atributos": {
+            "forca": 6,
+            "velocidade": 7,
+            "inteligencia": 6
+        }
+    },
+    {
+        "nome": "Cachorro",
+        "atributos": {
+            "forca": 5,
+            "velocidade": 6,
+            "inteligencia": 7
+        }
+    },
+    {
+        "nome": "Coelho",
+        "atributos": {
+            "forca": 3,
+            "velocidade": 8,
+            "inteligencia": 4
+        }
+    },
+    {
+        "nome": "Camaleão",
+        "atributos": {
+            "forca": 2,
+            "velocidade": 5,
+            "inteligencia": 7
+        }
+    },
+    {
+        "nome": "Cavalos",
+        "atributos": {
+            "forca": 8,
+            "velocidade": 7,
+            "inteligencia": 6
+        }
+    },
+    {
+        "nome": "Tartaruga",
+        "atributos": {
+            "forca": 4,
+            "velocidade": 2,
+            "inteligencia": 5
+        }
+    }
+]
+
